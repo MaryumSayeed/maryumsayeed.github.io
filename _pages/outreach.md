@@ -15,7 +15,7 @@ I'm proud to be a writer for [Astrobites](https://astrobites.org/), a daily astr
 ## Skype A Scientist
 I'm a strong supporter of science communication, and sharing my passion for astronomy with younger students. As a volunteer for [Skype a Scientist](https://www.skypeascientist.com/), I have the opportunity to talk to students of all ages, answer their questions about astronomy and what it means to be an astronomer. The image below shows one of my visits to elementary school classes in Florida.
 
-<p float="left">
+<p float="left" align="center">
   <img src="../images/skype1.jpeg" width="400" />
   <img src="../images/skype2.jpeg" width="400" /> 
 </p>
