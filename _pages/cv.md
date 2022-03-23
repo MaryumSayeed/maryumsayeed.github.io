@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+My CV is available for download [here](../files/Sayeed_CV.pdf) (last updated March 2022). 
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Honours Physics & Astronomy, University of British Columbia, 2020
+* Ph.D Student in Astronomy, Columbia University, (in progress)
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
