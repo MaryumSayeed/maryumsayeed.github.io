@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/the-swan
+excerpt: 'Used linear regression to infer stellar surface gravities.'
+date: 2021-03-09
+venue: 'The Astronomical Journal'
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-3881/abdf4c'
+citation: 'Sayeed, M. et al. (2021). &quot;The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves”, <i>The Astronomical Journal</i>. 161(4).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Used linear regression to infer stellar surface gravities.
+[Download paper here](https://iopscience.iop.org/article/10.3847/1538-3881/abdf4c)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sayeed, Maryum (2021). &quot;The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves”, <i>The Astronomical Journal</i>. 161(4).
