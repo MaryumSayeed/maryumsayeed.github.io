@@ -9,13 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available for download [here](../files/Sayeed_CV.pdf) (last updated March 2022). 
-
+Please [email me](maryum.sayeed@columbia.edu) to obtain a copy of my CV. Thank you!
 
 Education
 ======
 * B.Sc in Honours Physics & Astronomy, University of British Columbia, 2020
 * Ph.D Student in Astronomy, Columbia University, (in progress)
+
+Teaching Assistant
+======
+* Spring 2022 &rarr; Earth, Moon & Planets, Columbia University
+* Fall 2021 &rarr; Stars & Atoms, Columbia University
+* 2018-2020 &rarr; Energy & Waves, UBC
 
 <!-- 
 Work experience
