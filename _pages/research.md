@@ -1,10 +1,11 @@
-
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Sitemap"
+permalink: /sitemap/
 author_profile: true
 ---
+
+{% include base_path %}
 
 Full publication list on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6180-8482&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 
