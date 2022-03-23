@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 My CV is available for download [here](../files/Sayeed_CV.pdf) (last updated March 2022). 
 
 
