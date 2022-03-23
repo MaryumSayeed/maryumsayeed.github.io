@@ -52,8 +52,6 @@ The gravitational attraction between a protostar and surrounding dust grains cau
 
 This project aimed to observe IRS 48, the first asymmetric protoplanetary disk that showed evidence of a dust trap, in multiple wavelengths to model the morphology of the disk and investigate dust growth. I applied Markov chain Monte Carlo methods to model the disk using parameters for disk location, size and orientation, and created a spectral index map to probe dust distribution.
 
-![irs48](../images/irs48.png)
-
 
 
 
