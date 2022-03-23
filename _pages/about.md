@@ -12,5 +12,5 @@ I'm a first year PhD student at Columbia University in the Department of Astrono
 
 Contact Me
 ======
-Email: [maryum.sayeed@columbia.edu](maryum.sayeed@columbia.edu)
+Email: [maryum.sayeed@columbia.edu](maryum.sayeed@columbia.edu)\\
 Office: Pupin Hall, 538 West 120th Street, New York, NY
