@@ -14,7 +14,7 @@ I'm proud to be a writer for [Astrobites](https://astrobites.org/), a daily astr
 &nbsp; &rarr; January 2022 - _[Make it or Brake it: Supporting Weakened Magnetic Braking with Asteroseismology](https://astrobites.org/2022/01/28/weakened-magnetic-braking/)_
 
 ## Skype A Scientist
-I'm a strong supporter of science communication, and sharing my passion for astronomy with younger students. As a volunteer for [Skype a Scientist](https://www.skypeascientist.com/), I have the opportunity to talk to students of all ages, answer their questions about astronomy and what it means to be an astronomer. The image below shows one of my visits to elementary school classes in Florida.
+I'm a strong supporter of science communication, and sharing my passion for astronomy with younger students. As a volunteer for [Skype a Scientist](https://www.skypeascientist.com/), I have the opportunity to talk to students of all ages, answer questions and share what it means to be an astronomer. The image below shows one of my visits to elementary school classes in Florida.
 
 <p float="left" align="center">
   <img src="../images/skype1.jpeg" width="400" />
@@ -22,7 +22,7 @@ I'm a strong supporter of science communication, and sharing my passion for astr
 </p>
 
 ## Mentorship
-I'm passionate about mentorship at all levels of academia. I have multiple strong female mentors who have guided me throughout my studies, and I encourage women -- especially women of colour -- to surround themselves with people who understand and value you. I'm currently a mentor to undergrads as part of the Grad/Undergrad mentorship program. 
+I'm passionate about mentorship at all levels of academia. I have multiple strong female mentors who have guided me throughout my studies, and I encourage women -- especially women of colour -- to surround themselves with people that appreciate your value. I'm currently a mentor to undergraduates as part of the Grad/Undergrad mentorship program. 
 
 
 
