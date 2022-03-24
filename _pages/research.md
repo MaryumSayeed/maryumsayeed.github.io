@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-An up-to-date list of publications can be found on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6180-8482&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
+An up-to-date list of publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6180-8482&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 
 I've had the opportunity to try out diverse areas of astronomy through small projects. These projects are described below in more detail.
 
@@ -18,7 +18,7 @@ We are currently investigating the formation pathways for lithium enhanced red g
 
 ## Asteroseismology & Machine Learning
 _Advisors: [Prof. Daniel Huber](http://www.ifa.hawaii.edu/~dhuber/) & [Prof. Melissa Ness](http://user.astro.columbia.edu/~mkness/Home.html)_ <br>
-_Paper: on [ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....161..170S/abstract)_<br>
+_Paper: on [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....161..170S/abstract)_<br>
 _Code: on [GitHub](https://github.com/MaryumSayeed/TheSwan)_
 
 <img align="right" src="../images/astero.gif">
