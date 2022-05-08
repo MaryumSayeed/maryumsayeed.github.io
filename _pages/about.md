@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at Columbia University in the Department of Astronomy, a [LSSTC Data Science Fellow](https://astrodatascience.org/) and a [National Osterbrock Leadership Fellow](https://aas.org/nolp). My [publications](https://maryumsayeed.github.io/publications/) and [CV](https://maryumsayeed.github.io/cv/) can be accessed using the tabs above. Outside of research, I'm passionate about [outreach](https://maryumsayeed.github.io/outreach/), in particular youth mentorship and astronomy education. I received my bachelors from the University of British Columbia in Physics & Astronomy, after which I worked as a Data Analytics Consultant at [Ernst & Young](https://www.ey.com/en_ca). <br>
+I am a graduate student at Columbia University in the Department of Astronomy, a [LSSTC Data Science Fellow](https://astrodatascience.org/) and a [National Osterbrock Leadership Fellow](https://aas.org/nolp). I received my bachelor's from the University of British Columbia in Physics & Astronomy, after which I worked as a Data Analytics Consultant at [Ernst & Young](https://www.ey.com/en_ca). I am currently a [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) PGS-D fellow.<br>
 
 ## Research Interests
 
