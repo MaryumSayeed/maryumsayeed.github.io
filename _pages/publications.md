@@ -14,7 +14,7 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 
 {:start="1"} 1. [The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves](https://ui.adsabs.harvard.edu/abs/2021AJ....161..170S/abstract): Sayeed et al. 2021, arXiv:2011.10062, Accepted
 
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -23,4 +23,4 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
