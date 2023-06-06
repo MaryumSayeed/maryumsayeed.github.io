@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Astrobites
-I'm proud to be a writer for [Astrobites](https://astrobites.org/), a daily astrophysical literature journal written by graduate students in astronomy. The goal of the collaboration is to summarize daily scientific papers for undergraduate astronomy students, and make astronomy more accessible. Check out some of my articles below ([full list here](https://astrobites.org/author/msayeed/)).
+I'm a writer for [Astrobites](https://astrobites.org/), a daily astrophysical literature journal written by graduate students in astronomy. The goal of the collaboration is to summarize daily scientific papers for undergraduate astronomy students, and make astronomy more accessible. Check out some of my articles below ([full list here](https://astrobites.org/author/msayeed/)).
 
 &nbsp; &rarr; December 2022 - _[Honey, I Shrunk the Orbit!](https://astrobites.org/2022/12/28/honey-i-shrunk-the-orbit/)_<br>
 &nbsp; &rarr; December 2022 - _[One Plot to Rule Them All - Review of the Skumanich Law](https://astrobites.org/2022/12/24/one-plot-to-rule-them-all/)_<br>
