@@ -7,13 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-.half div {
-  float: left;
-  width: 50%;
-  padding-right: 10px;
-}
-
-
 <div class="half">
   <div> 
     <img src="../images/tasc6_poster_lithium.jpeg" alt="" width="50%">
