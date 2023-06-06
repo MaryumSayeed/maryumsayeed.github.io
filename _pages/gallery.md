@@ -9,24 +9,25 @@ author_profile: true
 
 <div class="half">
   <div> 
-    <img src="../images/tasc6_poster_catalog.jpeg" alt="">
-    <p>caption 1</p>
-  </div>
-  <div> 
     <img src="../images/tasc6_poster_lithium.jpeg" alt="">
-    <p>caption 2</p>
+    <p>Poster presented at [TASC 6](https://fys.kuleuven.be/ster/events/conferences/2020/tasc6).</p>
   </div>
   <div> 
     <img src="../images/tasc6_poster_catalog.jpeg" alt="">
-    <p>caption 3</p>
+    <p>Poster presented at [TASC 6](https://fys.kuleuven.be/ster/events/conferences/2020/tasc6).</p>
   </div>
   <div> 
-    <img src="../images/tasc6_poster_catalog.jpeg" alt="">
-    <p>caption 4</p>
+    <img src="../images/w_vs_m_example.png" alt="">
+    <p>Figure 5 from paper on [lithium-rich red giants]().</p>
+  </div>
+  <div> 
+    <img src="../images/ruwe.png" alt="">
+    <p>Figure 17 from paper on [lithium-rich red giants]().</p>
   </div>
 </div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+.half div {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
