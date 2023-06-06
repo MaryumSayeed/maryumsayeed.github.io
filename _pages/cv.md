@@ -9,15 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Please [email me](maryum.sayeed@columbia.edu) to obtain a copy of my CV. Thank you!
+Please [email me](ms6341@columbia.edu) to obtain a copy of my CV. Thank you!
 
 Education
 ======
-* B.Sc in Honours Physics & Astronomy, University of British Columbia, 2020
 * MA in Astronomy, Columbia University (in progress)
+* B.Sc in Honours Physics & Astronomy, University of British Columbia, 2020
+
+Students
+======
+* Selina Yang (Summer 2023)
+* Leah McGee-Gold (Summer 2022)
 
 Teaching Assistant
 ======
+* Spring 2023 &rarr; Theories of the Universe, Columbia University
+* Fall 2022 &rarr; Astronomy Lab, Columbia University
 * Spring 2022 &rarr; Earth, Moon & Planets, Columbia University
 * Fall 2021 &rarr; Stars & Atoms, Columbia University
 * 2018-2020 &rarr; Energy & Waves, UBC
