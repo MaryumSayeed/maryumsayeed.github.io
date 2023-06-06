@@ -5,9 +5,10 @@ permalink: /gallery/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+{% include image-gallery.html folder="/images/gallery" %}
 
-<div class="half">
+<!-- <div class="half">
   <div> 
     <img src="../images/tasc6_poster_lithium.jpeg" alt="" width="50%">
     <p>Poster presented at <a href="https://fys.kuleuven.be/ster/events/conferences/2020/tasc6">TASC 6</a>.</p>
@@ -24,4 +25,4 @@ author_profile: true
     <img src="../images/ruwe.png" alt="" width="50%">
     <p>Figure 17 from paper on <a href="">lithium-rich red giants</a>.</p>
   </div>
-</div>
+</div> -->
