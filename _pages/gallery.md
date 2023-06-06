@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+.half div {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
+
 <div class="half">
   <div> 
     <img src="../images/tasc6_poster_lithium.jpeg" alt="">
@@ -25,9 +31,3 @@ author_profile: true
     <p>Figure 17 from paper on [lithium-rich red giants]().</p>
   </div>
 </div>
-
-.half div {
-  float: left;
-  width: 50%;
-  padding-right: 10px;
-}
