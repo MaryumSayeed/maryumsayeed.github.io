@@ -9,7 +9,7 @@ author_profile: true
 The following images show selected figures from papers and posters presented at conferences. See caption and legend below for details.
 
 Legend
-======
+------
 * Paper A: [Lithium-Rich Red Giants]()
 * Conf A: [TASC 6](https://fys.kuleuven.be/ster/events/conferences/2020/tasc6)
 
