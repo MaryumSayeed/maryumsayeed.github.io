@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 <!-- {% include base_path %} -->
-{% include image-gallery.html folder="/images/gallery" %}
-
 The following images show selected figures from papers and posters presented at conferences. See caption and legend below for details.
 
 Legend
@@ -15,6 +13,7 @@ Legend
 * Paper A: [Lithium-Rich Red Giants]()
 * Conf A: [TASC 6](https://fys.kuleuven.be/ster/events/conferences/2020/tasc6)
 
+{% include image-gallery.html folder="/images/gallery" %}
 
 <!-- <div class="half">
   <div> 
