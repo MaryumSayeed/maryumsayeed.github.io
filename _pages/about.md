@@ -18,5 +18,5 @@ My research interests are primarily in **stellar astrophysics**. Broadly, I'm in
 
 Contact Me
 ======
-Email: [maryum.sayeed@columbia.edu](maryum.sayeed@columbia.edu) <br>
+Email: [maryum.sayeed@columbia.edu](mailto:maryum.sayeed@columbia.edu) <br>
 Office: Pupin Hall, 538 West 120th Street, New York, NY
