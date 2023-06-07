@@ -13,9 +13,9 @@ I've had the opportunity to try out diverse areas of astronomy through small pro
 
 ## Lithium in Red Giants
 _Advisors: [Prof. Melissa Ness](http://user.astro.columbia.edu/~mkness/Home.html) & [Prof. Ben Montet](https://research.unsw.edu.au/people/dr-ben-montet)_ <br>
-_Paper: on [arXiv]()_<br>
+_Paper: on [arXiv](https://arxiv.org/abs/2306.03323)_<br>
 
-We investigated formation pathways for lithium-rich red giants using data from GALAH DR3, _Gaia_ DR3, and GALEX. Check out the paper for more details.
+We investigated formation pathways for lithium-rich red giants using data from GALAH DR3, _Gaia_ DR3, and GALEX. Check out the [paper](https://arxiv.org/abs/2306.03323) for more details.
 
 ## Asteroseismology & Machine Learning
 _Advisors: [Prof. Daniel Huber](http://www.ifa.hawaii.edu/~dhuber/) & [Prof. Melissa Ness](http://user.astro.columbia.edu/~mkness/Home.html)_ <br>

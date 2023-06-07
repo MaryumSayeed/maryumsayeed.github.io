@@ -10,7 +10,7 @@ The following images show selected figures from papers and posters presented at 
 
 Legend
 ------
-* Paper A: [Lithium-Rich Red Giants]()
+* Paper A: [Lithium-Rich Red Giants](https://arxiv.org/abs/2306.03323)
 * Conf A: [TASC 6](https://fys.kuleuven.be/ster/events/conferences/2020/tasc6)
 
 {% include image-gallery.html folder="/images/gallery" %}
