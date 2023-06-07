@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please [email me](maryum.sayeed@columbia.edu) to obtain a copy of my CV.
+Please [email me](mailto:maryum.sayeed@columbia.edu) to obtain a copy of my CV.
 
 Education
 ======

@@ -7,7 +7,7 @@ author_profile: true
 
 An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6180-8482&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-5. [Many Roads Lead to Lithium: Formation Pathways For Lithium-Rich Red Giants](https://arxiv.org/abs/2306.03323): **Sayeed** et al. 2023, arXiv:, Submitted
+5. [Many Roads Lead to Lithium: Formation Pathways For Lithium-Rich Red Giants](https://arxiv.org/abs/2306.03323): **Sayeed** et al. 2023, arXiv:2306.03323, Submitted
 
 4. Lithium in Kepler Red Giants: Defining Normal and Anomalous: Tayar et al. 2023, incl. **M. Sayeed**, Submitted
 
