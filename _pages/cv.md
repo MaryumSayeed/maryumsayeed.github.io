@@ -18,7 +18,8 @@ Education
 
 Students
 ======
-* Selina Yang (Summer 2023)
+* Forrest Weintraub (Fall 2023-present)
+* Selina Yang (Summer 2023-present)
 * Leah McGee-Gold (Summer 2022)
 
 Teaching Assistant
