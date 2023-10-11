@@ -9,11 +9,11 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 
 5. [Many Roads Lead to Lithium: Formation Pathways For Lithium-Rich Red Giants](https://arxiv.org/abs/2306.03323): **Sayeed** et al. 2023, arXiv:2306.03323, Submitted
 
-4. Lithium in Kepler Red Giants: Defining Normal and Anomalous: Tayar et al. 2023, incl. **M. Sayeed**, Submitted
+4. [Lithium in Kepler Red Giants: Defining Normal and Anomalous](https://ui.adsabs.harvard.edu/abs/2023AJ....166...60T/abstract): Tayar et al. 2023, incl. **M. Sayeed**, arXiv:2306.16465, Accepted
 
 3. [Detections of solar-like oscillations in dwarfs and subgiants with Kepler DR25 short-cadence data](https://ui.adsabs.harvard.edu/abs/2022A%26A...657A..31M/abstract): Mathur et al. 2022, **M. Sayeed**, arXiv:2109.14058, Accepted
 
-2. [pySYD: Automated Measurements of Global Asteroseismic Parameters](https://arxiv.org/abs/2108.00582): Chontos et al. 2022, incl. **M. Sayeed**, arXiv:2108.00582, Submitted
+2. [pySYD: Automated Measurements of Global Asteroseismic Parameters](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.3331C/abstract): Chontos et al. 2022, incl. **M. Sayeed**, arXiv:2108.00582, Accepted
 
 1. [The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves](https://ui.adsabs.harvard.edu/abs/2021AJ....161..170S/abstract): **Sayeed** et al. 2021, arXiv:2011.10062, Accepted
 
