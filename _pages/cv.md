@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Please [email me](mailto:maryum.sayeed@columbia.edu) to obtain a copy of my CV.
 
 Education
 ======
-* MA in Astronomy, Columbia University (in progress)
+* MPhil in Astronomy, Columbia University, 2024
+* MA in Astronomy, Columbia University, 2023
 * B.Sc in Honours Physics & Astronomy, University of British Columbia, 2020
 
 Students
 ======
-* Selina Yang (Summer 2023)
+* Madeline Maldonado Gutierrez (Spring 2025)
+* Selina Yang -> Cornell University (2023-2024)
+* Forrest Weintraub (Winter 2023)
 * Leah McGee-Gold (Summer 2022)
 
 Teaching Assistant
@@ -28,6 +30,8 @@ Teaching Assistant
 * Spring 2022 &rarr; Earth, Moon & Planets, Columbia University
 * Fall 2021 &rarr; Stars & Atoms, Columbia University
 * 2018-2020 &rarr; Energy & Waves, UBC
+
+<embed src="{{ site.baseurl }}/files/MaryumSayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
 
 <!-- 
 Work experience
