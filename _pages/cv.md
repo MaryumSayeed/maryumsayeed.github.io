@@ -18,15 +18,10 @@ Education
 
 Students
 ======
-<<<<<<< HEAD
 * Madeline Maldonado Gutierrez (Spring 2025)
 * Selina Yang -> Cornell University (2023-2024)
 * Forrest Weintraub (Winter 2023)
-=======
-* Forrest Weintraub (Fall 2023-present)
 * Selina Yang (Summer 2023-present)
->>>>>>> 3cb219ef6361b524a782f379fbf64ca5f8cd7a21
-* Leah McGee-Gold (Summer 2022)
 
 Teaching Assistant
 ======

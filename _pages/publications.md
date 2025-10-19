@@ -10,15 +10,10 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 First-author:
 ======
 
-<<<<<<< HEAD
 6. "Looking for Companionship: Radial Velocity Follow-Up of Lithium-Rich Giants with ESPRESSO” (Submitted to ApJ)
-=======
-4. [Lithium in Kepler Red Giants: Defining Normal and Anomalous](https://ui.adsabs.harvard.edu/abs/2023AJ....166...60T/abstract): Tayar et al. 2023, incl. **M. Sayeed**, arXiv:2306.16465, Accepted
->>>>>>> 3cb219ef6361b524a782f379fbf64ca5f8cd7a21
 
 5. [A Homogeneous Catalog of Oscillating Solar-type Stars Observed by the Kepler Mission and a New Amplitude Scaling Relation Including Chromospheric Activity](https://ui.adsabs.harvard.edu/abs/2025AJ....170..212S/abstract)
 
-<<<<<<< HEAD
 4. [Probing Binary Architectures of Lithium-rich Giants in GALAH with COSMIC and Stellar Models](https://ui.adsabs.harvard.edu/abs/2025ApJ...991...73S/abstract)
 
 3. [Exoplanet Occurrence Rate with Age for FGK Stars in Kepler](https://ui.adsabs.harvard.edu/abs/2025AJ....169..112S/abstract)
@@ -41,10 +36,6 @@ Co-author:
 2. [Detections of solar-like oscillations in dwarfs and subgiants with Kepler DR25 short-cadence data](https://ui.adsabs.harvard.edu/abs/2022A%26A...657A..31M/abstract): S. Mathur, R. A. García, S. Breton, et al., (2022) incl. **M. Sayeed**
 
 1. [pySYD: Automated Measurements of Global Asteroseismic Parameters](https://arxiv.org/abs/2108.00582): A. Chontos, D. Huber, **M. Sayeed**, and P. Yamsiri, (2022)
-=======
-2. [pySYD: Automated Measurements of Global Asteroseismic Parameters](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.3331C/abstract): Chontos et al. 2022, incl. **M. Sayeed**, arXiv:2108.00582, Accepted
->>>>>>> 3cb219ef6361b524a782f379fbf64ca5f8cd7a21
-
 
 <!-- 
 {% if author.googlescholar %}
