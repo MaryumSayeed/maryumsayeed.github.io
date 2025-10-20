@@ -31,7 +31,7 @@ Teaching Assistant
 * Fall 2021 &rarr; Stars & Atoms, Columbia University
 * 2018-2020 &rarr; Energy & Waves, UBC
 
-<embed src="{{ site.baseurl }}/files/MaryumSayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Sayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
 
 <!-- 
 Work experience
