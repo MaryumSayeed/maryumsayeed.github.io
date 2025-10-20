@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+My complete CV can be downloaded below.
 
 Education
 ======
@@ -22,14 +23,6 @@ Students
 * Selina Yang -> Cornell University (2023-2024)
 * Forrest Weintraub (Winter 2023)
 * Leah McGee-Gold (Summer 2022)
-
-Teaching Assistant
-======
-* Spring 2023 &rarr; Theories of the Universe, Columbia University
-* Fall 2022 &rarr; Astronomy Lab, Columbia University
-* Spring 2022 &rarr; Earth, Moon & Planets, Columbia University
-* Fall 2021 &rarr; Stars & Atoms, Columbia University
-* 2018-2020 &rarr; Energy & Waves, UBC
 
 <embed src="{{ site.baseurl }}/files/Sayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
 
