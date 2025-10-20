@@ -7,8 +7,7 @@ author_profile: true
 
 An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6180-8482&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-First-author:
-======
+**First-author:**
 
 6. "Looking for Companionship: Radial Velocity Follow-Up of Lithium-Rich Giants with ESPRESSO” (Submitted to ApJ)
 
@@ -22,8 +21,7 @@ First-author:
 
 1. [The Swan: Data-driven Inference of Stellar Surface Gravities for Cool Stars from Photometric Light Curves](https://ui.adsabs.harvard.edu/abs/2021AJ....161..170S/abstract):
 
-Co-author:
-======
+**Co-author:**
 
 6. "Spectroscopic Follow-up of Young High-α Dwarf Star Candidates: Still Likely Genuinely Young": Y. Lu, C. Manea, **M. Sayeed**, et al. (submitted to AJ)
 

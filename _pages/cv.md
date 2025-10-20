@@ -21,7 +21,7 @@ Students
 * Madeline Maldonado Gutierrez (Spring 2025)
 * Selina Yang -> Cornell University (2023-2024)
 * Forrest Weintraub (Winter 2023)
-* Selina Yang (Summer 2023-present)
+* Leah McGee-Gold (Summer 2022)
 
 Teaching Assistant
 ======
