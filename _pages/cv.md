@@ -24,7 +24,7 @@ Students
 * Forrest Weintraub (Winter 2023)
 * Leah McGee-Gold (Summer 2022)
 
-<embed src="{{ site.baseurl }}/files/Sayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/MaryumSayeed_CV.pdf" width="100%" height="800px" type='application/pdf'>
 
 <!-- 
 Work experience
