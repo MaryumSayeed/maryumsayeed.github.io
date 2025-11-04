@@ -9,7 +9,7 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 
 **First-author:**
 
-6. "Looking for Companionship: Radial Velocity Follow-Up of Lithium-Rich Giants with ESPRESSO” (Submitted to ApJ)
+6. [Looking for Companionship: Radial Velocity Follow-Up of Lithium-Rich Giants with ESPRESSO](https://ui.adsabs.harvard.edu/abs/2025arXiv251017966S/abstract)
 
 5. [A Homogeneous Catalog of Oscillating Solar-type Stars Observed by the Kepler Mission and a New Amplitude Scaling Relation Including Chromospheric Activity](https://ui.adsabs.harvard.edu/abs/2025AJ....170..212S/abstract)
 
@@ -23,7 +23,7 @@ An up-to-date list of my publications can be found on [NASA/ADS](https://ui.adsa
 
 **Co-author:**
 
-6. "Spectroscopic Follow-up of Young High-α Dwarf Star Candidates: Still Likely Genuinely Young": Y. Lu, C. Manea, **M. Sayeed**, et al. (submitted to AJ)
+6. [Spectroscopic Follow-up of Young High-α Dwarf Star Candidates: Still Likely Genuinely Young](https://ui.adsabs.harvard.edu/abs/2025arXiv251015654L/abstract): Y. Lu, C. Manea, **M. Sayeed**, et al. 
 
 5. [Evidence of Truly Young High-α Dwarf Stars](https://ui.adsabs.harvard.edu/abs/2025AJ....169..168L/abstract): Y. Lu, I. L. Colman, **M. Sayeed**, et al. (2025)
 
